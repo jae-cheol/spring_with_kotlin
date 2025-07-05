@@ -1,4 +1,4 @@
-#프로젝트 세팅
+# 프로젝트 세팅
 
 ## 인텔리제이 커뮤니티
 [https://www.jetbrains.com/ko-kr/idea/download/other.html](https://www.jetbrains.com/ko-kr/idea/download/other.html)
